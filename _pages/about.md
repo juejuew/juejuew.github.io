@@ -33,6 +33,10 @@ Write your biography here: current academic status, affiliation, and previous ed
 - Research interest 3
 
 <style>
+.profile.float-left {
+  max-width: 220px;
+  margin-right: 2.5rem;
+}
 .social {
   margin-top: 2.5rem;
 }
