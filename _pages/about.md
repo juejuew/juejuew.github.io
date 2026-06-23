@@ -31,3 +31,15 @@ Write your biography here: current academic status, affiliation, and previous ed
 - Research interest 1
 - Research interest 2
 - Research interest 3
+
+<style>
+.social {
+  margin-top: 2.5rem;
+}
+.social .contact-icons {
+  font-size: 2.2rem;
+}
+.social .contact-icons a {
+  margin: 0 0.5rem;
+}
+</style>
