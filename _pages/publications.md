@@ -12,10 +12,10 @@ nav_order: 2
 
 <h2>Papers</h2>
 
-{% bibliography --query @unpublished %}
+{% bibliography --group_by none --query @unpublished %}
 
 <h2>Theses</h2>
 
-{% bibliography --query @misc %}
+{% bibliography --group_by none --query @misc %}
 
 </div>
