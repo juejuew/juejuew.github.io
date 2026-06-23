@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Statistics at the University of Washington, advised by [Carlos Cinelli](https://carloscinelli.com/) (sensitivity analysis) and [Eardi Lila](https://eardilila.github.io/) (functional data analysis). Before UW, I earned an M.S. in Applied Statistics and a B.S. in Statistics and Economics (Honors), all from the University of Michigan.
+I am a fourth-year Ph.D. candidate in the Department of Statistics at the University of Washington, advised by [Carlos Cinelli](https://carloscinelli.com/). Prior to UW, I earned an M.S. in Applied Statistics and dual B.S. degrees in Statistics (Honors) and Economics (Honors) from the University of Michigan.
 
 **Research Interests**
 
