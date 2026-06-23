@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://juejuew.github.io/al-folio/sitemap.xml
