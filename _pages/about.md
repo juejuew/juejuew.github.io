@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Ph.D. student in Statistics, University of Washington
 
 profile:
   align: left
@@ -24,13 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here: current academic status, affiliation, and previous education. Mention advisors and collaborators with links to their profiles.
+I am a Ph.D. student in the Department of Statistics at the University of Washington, advised by [Carlos Cinelli](https://carloscinelli.com/) (sensitivity analysis) and [Eardi Lila](https://eardilila.github.io/) (functional data analysis). Before UW, I earned an M.S. in Applied Statistics and a B.S. in Statistics and Economics (Honors), all from the University of Michigan.
 
 **Research Interests**
 
-- Research interest 1
-- Research interest 2
-- Research interest 3
+- Causal inference, sensitivity analysis, quasi-experimental models
+- Functional data analysis, neuroimaging
 
 <style>
 .profile.float-left {

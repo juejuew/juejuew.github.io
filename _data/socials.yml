@@ -2,10 +2,10 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file (already linked from the CV nav page, so omitted from the social icon row)
-email: you@example.com # your email address
+email: juejuw@uw.edu # your email address
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-github_username: your-github-username # your GitHub username
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+github_username: juejuew # your GitHub username
 linkedin_username: your-linkedin-username # your LinkedIn username
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
