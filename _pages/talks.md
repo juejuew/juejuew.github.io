@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: Invited talks, conference presentations, and posters.
 nav: true
 nav_order: 3
@@ -20,7 +20,7 @@ nav_order: 3
 - **Talk** at University of Washington, Data Science Seminar<br>April 2026, Seattle, Washington
 - **Talk** at University of Washington, Causal Reading Group<br>April 2026, Seattle, Washington
 - **Talk** at University of Washington, TGIF Lab<br>February 2026, Seattle, Washington
-- **Poster** at IEEE International Conference on Big Data<br>December 2021, Orlando, Florida
+- **Poster** at [IEEE International Conference on Big Data](https://bigdataieee.org/BigData2021/)<br>December 2021, Orlando, Florida
 - **Poster** at [New Directions in Analyzing Text as Data Conference (TADA 2021)](https://textasdata.github.io/events/)<br>October 2021, Ann Arbor, Michigan
 - **Talk** at Northern California Computational Biology Student Symposium<br>October 2019, Davis, California
 - **Talk** at UM Symposium on Big Data, Human Health, and Statistics<br>July 2017, Ann Arbor, Michigan
