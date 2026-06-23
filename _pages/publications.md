@@ -10,6 +10,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Papers</h2>
+
+{% bibliography --query @unpublished %}
+
+<h2>Theses</h2>
+
+{% bibliography --query @misc %}
 
 </div>
