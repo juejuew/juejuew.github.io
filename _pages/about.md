@@ -30,7 +30,7 @@ Prior to UW, I earned an M.S. in Applied Statistics and dual B.S. degrees in Sta
 
 **Research Interests**
 
-- Causal inference, sensitivity analysis, quasi-experimental models
+- Causal inference, sensitivity analysis, quasi-experimental designs
 - Functional data analysis, neuroimaging
 
 <style>
