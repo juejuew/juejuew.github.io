@@ -11,6 +11,8 @@ nav_order: 3
 
 ## Upcoming
 
+- **Talk** at the [Causal Data Science Meeting (CDSM 2026)](https://www.causalscience.org)<br>November 4–5, 2026
+
 ## Past
 
 - **Contributed talk** at the [Joint Statistical Meetings (JSM 2026)](https://ww2.amstat.org/meetings/jsm/2026/)<br>August 2026, Boston, Massachusetts
